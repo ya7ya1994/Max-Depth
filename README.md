@@ -1,2 +1,2 @@
-# Recursion
-Use Recursion Approach to solve Binary tree problems either Top-down or Bottom-up
+# Maximum Depth
+Use Recursion Approach to solve Maximum Depth Binary tree problem.
